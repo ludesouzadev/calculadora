@@ -1,0 +1,9 @@
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\bin\Debug\calculadora.exe.config
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\bin\Debug\calculadora.exe
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\bin\Debug\calculadora.pdb
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.exe
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.pdb
+E:\Usuários\lucsi\Documents\Visual Studio 2017\Projects\Linguagem c#\Windows Forms\calculadora\calculadora\obj\Debug\calculadora.frmCalc.resources
